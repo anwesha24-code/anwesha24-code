@@ -59,13 +59,6 @@
 
 ---
 
-### 🧠 Fun Section — Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
 ### 🚀 My Latest Projects  
 ✅ [Airbnb Clone (Full Stack MERN)](https://airbnb-5t79.onrender.com) — Built with Node.js, Express, MongoDB, and Cloudinary.  
 ✅ [Portfolio Website](https://portfolio-anwesha-pal.netlify.app) — Fully responsive and creative personal portfolio.  
