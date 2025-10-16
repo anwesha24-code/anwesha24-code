@@ -1,67 +1,92 @@
-<h1 align="center">Hi 👋, I'm Anwesha Pal</h1>
-<h3 align="center">A passionate full stack developer</h3>
-
-- 👩‍💻 All of my projects are available at [https://portfolio-anwesha-pal.netlify.app/](https://portfolio-anwesha-pal.netlify.app/)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/anwesha-pal-14a222293" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/anwesha2006" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/anweshap973n" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://codolio.com/profile/anwesha24/problemSolving" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Codolio-Profile-blueviolet?style=flat-square&logo=codeforces&logoColor=white" alt="Codolio" height="30" />
-  </a>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Anwesha+Pal;Full+Stack+Developer+💻;Problem+Solver+🧩;Open+Source+Enthusiast+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<h3 align="center">✨ Passionate about building full-stack web applications that blend creativity with logic.</h3>
+
+---
+
+### 💻 Portfolio  
+🌐 **Check out all my projects here:**  
+➡️ [https://portfolio-anwesha-pal.netlify.app](https://portfolio-anwesha-pal.netlify.app)
+
+---
+
+### 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/anwesha-pal-14a222293" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Anwesha%20Pal-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/anwesha2006" target="blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/anweshap973n" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://codolio.com/profile/anwesha24/problemSolving" target="blank"><img src="https://img.shields.io/badge/Codolio-Problem%20Solving-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
 
 ---
 
-<h3 align="left">🧩 Problem Solving & Analytics</h3>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,cpp,c,mysql,bootstrap,git,github,photoshop,vscode&perline=8" />
+</p>
 
-<p align="left">
-  <a href="https://codolio.com/profile/anwesha24/problemSolving" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-Visit_Profile-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Profile" />
+---
+
+### 🧩 Problem Solving Profiles  
+<p align="center">
+  <a href="https://codolio.com/profile/anwesha24/problemSolving">
+    <img src="https://img.shields.io/badge/Codolio-View%20Profile-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/anwesha2006">
+    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
-> 📊 Explore my problem-solving journey and consistency across multiple platforms through **[Codolio](https://codolio.com/profile/anwesha24/problemSolving)**.
+> 🧠 I love solving algorithmic challenges that strengthen my logic, speed, and creativity in code.
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 📊 GitHub Stats & Activity  
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwesha24-code&show_icons=true&locale=en&layout=compact" alt="anwesha24-code" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwesha24-code&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha24-code&theme=radical&hide_border=true" height="160" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anwesha24-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha24-code&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwesha24-code&theme=radical" alt="GitHub Streak" />
-</p> -->
+
+---
+
+### 🧠 Fun Section — Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🚀 My Latest Projects  
+✅ [Airbnb Clone (Full Stack MERN)](https://airbnb-5t79.onrender.com) — Built with Node.js, Express, MongoDB, and Cloudinary.  
+✅ [Portfolio Website](https://portfolio-anwesha-pal.netlify.app) — Fully responsive and creative personal portfolio.  
+✅ [Weather App](https://anwesha24-weather.netlify.app) — Fetches real-time weather using OpenWeather API.  
+
+---
+
+### 🌈 Fun Badges  
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20is%20Love-%F0%9F%92%96-pink?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Learning%20Never%20Stops-%F0%9F%9A%80-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%F0%9F%93%88-blue?style=for-the-badge">
+</p>
+
+---
+
+### ✨ Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anwesha24-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">💬 "Code. Create. Conquer." — Anwesha Pal</p>
