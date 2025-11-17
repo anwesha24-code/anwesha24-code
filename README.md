@@ -79,7 +79,7 @@
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e90ff,00bfff,87cefa&height=180&section=footer&text=☀️+Early+Coder+Mode+Activated+☕&fontSize=38&fontColor=fff&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e90ff,00bfff,87cefa&height=180&section=footer&text=Thanks+For+Visiting&fontSize=38&fontColor=fff&animation=twinkling" width="100%">
 </div>
 
 
