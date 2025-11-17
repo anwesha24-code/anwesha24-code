@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Anwesha+Pal;Full+Stack+Developer+💻;Problem+Solver+🧩;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Anwesha;Full+Stack+Developer+💻;Problem+Solver+🧩;" alt="Typing Animation" />
 </p>
 
 ---
