@@ -45,7 +45,11 @@
 > 🧠 I love solving algorithmic challenges that strengthen my logic, speed, and creativity in code.
 
 ---
+</div> <!-- ANIMATED CONTRIBUTION GRAPH --> <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> TECH STACK
+<table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/> <br>React </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48"/> <br>TypeScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48"/> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html,css,tailwindcss" width="48" height="48"/> <br>Frontend </td> </tr> </table>
 
+---
 ### 📊 GitHub Stats & Activity  
 
 <p align="center">
@@ -74,7 +78,11 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,1e90ff,87cefa&height=180&section=footer&text=☀️+Early+Coder+Mode+Activated+☕&fontSize=38&fontColor=fff&animation=twinkling" width="100%">
+</div>
 
+---
 ### ✨ Visitor Count  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anwesha24-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
