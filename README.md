@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20is%20Love-%F0%9F%92%96-pink?style=for-the-badge">
   <img src="https://img.shields.io/badge/Learning%20Never%20Stops-%F0%9F%9A%80-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%F0%9F%93%88-blue?style=for-the-badge">
+  <!-- <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%F0%9F%93%88-blue?style=for-the-badge"> -->
 </p>
 
 ---
