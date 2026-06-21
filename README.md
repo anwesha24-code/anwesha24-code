@@ -65,7 +65,7 @@
 
 ### 🚀 My Latest Projects  
 ✅ [Airbnb Clone (Full Stack MERN)](https://airbnb-5t79.onrender.com) — Built with Node.js, Express, MongoDB, and Cloudinary.  
-✅ [Gather]([https://your-gather-link.com](https://gathervideofrontend-k2eo.onrender.com/)) — Enables real-time meetings with video, chat, screen sharing, and persistent session history.
+✅ [Gather](https://gathervideofrontend-k2eo.onrender.com/) — Enables real-time meetings with video, chat, screen sharing, and persistent session history.
 ✅ [Portfolio Website](https://portfolio-anwesha-pal.netlify.app) — Fully responsive and creative personal portfolio.  
 
 
