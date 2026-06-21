@@ -46,7 +46,7 @@
 ---
 </div> <!-- ANIMATED CONTRIBUTION GRAPH --> <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> TECH STACK
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/> <br>React </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48"/> <br>TypeScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48"/> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html,css,tailwindcss" width="48" height="48"/> <br>Frontend </td> </tr> </table>
+<table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/> <br>React </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48"/> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html,css,tailwindcss" width="48" height="48"/> <br>Frontend </td> </tr> </table>
 
 ---
 ### 📊 GitHub Stats & Activity  
@@ -65,7 +65,7 @@
 ### 🚀 My Latest Projects  
 
 ✅ [Airbnb Clone (Full Stack MERN)](https://airbnb-5t79.onrender.com) — Built with Node.js, Express, MongoDB, and Cloudinary.  
-✅ [Gather (Video Conference Platform](https://gathervideofrontend-k2eo.onrender.com/) — Enables real-time meetings with video, chat, screen sharing and persistent session history.  
+✅ [Gather (Video Conference Platform](https://gathervideofrontend-k2eo.onrender.com/) — Real-time meetings with video, chat, screen sharing and session history.  
 ✅ [Portfolio Website](https://portfolio-anwesha-pal.netlify.app) — Fully responsive and creative personal portfolio.
 
 ---
