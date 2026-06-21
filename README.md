@@ -11,7 +11,7 @@
 
 ### 💻 Portfolio  
 🌐 **Check out all my projects here:**  
-➡️ [https://portfolio-anwesha-pal.netlify.app](https://portfolio-anwesha-pal.netlify.app)
+➡️ [https://portfolio-anwesha-pal.netlify.app](https://developer-portfolio--anweshapal2006.replit.app).
 
 ---
 
