@@ -18,7 +18,7 @@
 ### 🤝 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/anwesha-pal-14a222293" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Anwesha%20Pal-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://leetcode.com/anwesha2006" target="blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://leetcode.com/u/MJOstrich/" target="blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://auth.geeksforgeeks.org/user/anweshap973n" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
   <a href="https://codolio.com/profile/anwesha24/problemSolving" target="blank"><img src="https://img.shields.io/badge/Codolio-Problem%20Solving-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,firebase,nodejs,express,mongodb,java,python,cpp,c,mysql,postgresql,vscode,npm,bootstrap,redux,git,github,photoshop&perline=8" />
 </p>
-
 ---
 
 ### 🧩 Problem Solving Profiles  
@@ -37,7 +36,7 @@
   <a href="https://codolio.com/profile/anwesha24/problemSolving">
     <img src="https://img.shields.io/badge/Codolio-View%20Profile-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/anwesha2006">
+  <a href="https://leetcode.com/u/MJOstrich/">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
@@ -64,10 +63,10 @@
 ---
 
 ### 🚀 My Latest Projects  
-✅ [Airbnb Clone (Full Stack MERN)](https://airbnb-5t79.onrender.com) — Built with Node.js, Express, MongoDB, and Cloudinary.  
-✅ [Gather](https://gathervideofrontend-k2eo.onrender.com/) — Enables real-time meetings with video, chat, screen sharing, and persistent session history.
-✅ [Portfolio Website](https://portfolio-anwesha-pal.netlify.app) — Fully responsive and creative personal portfolio.  
 
+✅ [Airbnb Clone (Full Stack MERN)](https://airbnb-5t79.onrender.com) — Built with Node.js, Express, MongoDB, and Cloudinary.  
+✅ [Gather (Video Conference Platform](https://gathervideofrontend-k2eo.onrender.com/) — Enables real-time meetings with video, chat, screen sharing and persistent session history.  
+✅ [Portfolio Website](https://portfolio-anwesha-pal.netlify.app) — Fully responsive and creative personal portfolio.
 
 ---
 
